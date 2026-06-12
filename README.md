@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jayashree%20Sheshrao%20Hande&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=16"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com/?lines=Automating+the+world%2C+one+pipeline+at+a+time...;Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+Infrastructure+%26+Cost+Optimization;Always+learning%2C+always+deploying+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=40&color=00F0FF&vCenter=true&size=20&pause=1000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jayashree%20Sheshrao%20Hande&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20and%20Automation%20Enthusiast&descAlignY=55&descSize=16"/>
+ 
+<img src="https://readme-typing-svg.demolab.com/?lines=Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+Infrastructure+%26+Cost+Optimization;Always+learning%2C+always+deploying+%F0%9F%9A%80&font=Fira+Code&center=true&width=500&height=40&color=00F0FF&vCenter=true&size=20&pause=1000"/>
 <br/><br/>
  
 <img src="https://komarev.com/ghpvc/?username=jayshree25h&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge"/>
