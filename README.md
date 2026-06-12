@@ -58,12 +58,6 @@ resume: "https://drive.google.com/file/d/1dGRYJQ-H6okICP4CjVYiyKhecZ2dhlux/view?
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayshree25h&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayshree25h&theme=darkhub&no-frame=true&row=1&column=6"/>
-</a>
-</div>
-
 ---
 
 ## 🔗 Connect / Deploy a Conversation
