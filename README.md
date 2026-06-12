@@ -1,70 +1,96 @@
 <div align="center">
 
-# Hi there, I'm Jayashree Sheshrao Hande 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jayashree%20Sheshrao%20Hande&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=18"/>
 
-### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast from India 🇮🇳
+<img src="https://readme-typing-svg.demolab.com/?lines=Automating+the+world,+one+pipeline+at+a+time...;Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Cloud+Infrastructure+%26+Cost+Optimization;Always+learning,+always+deploying+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=00F0FF&vCenter=true&size=22"/>
 
-<img src="https://komarev.com/ghpvc/?username=jayshree25h&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jayshree25h" />
+<img src="https://komarev.com/ghpvc/?username=jayshree25h&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-### 🌟 About Me
+## 🛰️ `Desc`
 
-- 🔭 Currently working on **Smart Cloud Cost Optimization Platform**
-- 🌱 Currently learning **CI/CD Pipelines, Docker, Kubernetes, Linux, Networking & Terraform**
-- 💡 Passionate about **Cloud Infrastructure, Automation & DevOps best practices**
-- 📫 Reach me at: **jayshreeminuhande@gmail.com**
-- 📄 Check out my **[Resume / Experience](https://drive.google.com/file/d/1dGRYJQ-H6okICP4CjVYiyKhecZ2dhlux/view?usp=sharing)**
+```yaml
+name: Jayashree Sheshrao Hande
+role: Aspiring DevOps Engineer
+location: India 🇮🇳
+focus: "Smart Cloud Cost Optimization Platform"
+currently_learning: [CI/CD, Docker, Kubernetes, Linux, Networking, Terraform]
+contact: jayshreeminuhande@gmail.com
+resume: "https://drive.google.com/file/d/1dGRYJQ-H6okICP4CjVYiyKhecZ2dhlux/view?usp=sharing"
+```
 
 ---
 
-### 🌐 Connect with Me
+## ⚙️ Tech Stack & Tools
 
-<p align="left">
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform&theme=dark"/>
+
+### 🐳 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,bash&theme=dark"/>
+
+### 💻 Languages & Development
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,django&theme=dark"/>
+
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,bootstrap&theme=dark"/>
+
+</div>
+
+---
+
+## 📡 GitHub Telemetry
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayshree25h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshree25h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshree25h&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayshree25h&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayshree25h&theme=darkhub&no-frame=true&row=1&column=6"/>
+</a>
+</div>
+
+---
+
+## 🔗 Connect / Deploy a Conversation
+
+<div align="center">
+
 <a href="https://linkedin.com/in/jayshreehande" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/jayshreemi5sr" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-00f0ff?style=for-the-badge&logo=geeksforgeeks&logoColor=0D1117"/>
 </a>
 <a href="mailto:jayshreeminuhande@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-00f0ff?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
 </a>
-</p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,linux,bash,git,python,java,c,cpp,html,css,javascript,django,mongodb,mysql,postman&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jayshree25h&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshree25h&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshree25h&theme=radical&hide_border=true" alt="jayshree25h" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayshree25h&theme=react-dark&hide_border=true" />
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 "Automate everything that can be automated."
+```bash
+$ echo "Building scalable, automated, cost-optimized cloud systems — one commit at a time."
+```
 
-⭐️ From [jayshree25h](https://github.com/jayshree25h)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
 </div>
